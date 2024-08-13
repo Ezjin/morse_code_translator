@@ -7,4 +7,4 @@ words = text.split()
 
 for word in words:
     for l in word:
-        
+        print(l)
